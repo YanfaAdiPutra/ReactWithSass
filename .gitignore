@@ -5,7 +5,7 @@
 /build
 
 #generated when run
-/src/style/*.css
+/src/style/css
 
 # misc
 .DS_Store
